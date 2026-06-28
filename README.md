@@ -129,6 +129,8 @@ The notebook includes:
 GitHub:
 https://github.com/faridamemon231-maker
 
+linkdin : https://www.linkedin.com/in/aaisha-memon-583453374/
+
 ---
 
 ⭐ If you found this project useful, don't forget to give it a Star!
